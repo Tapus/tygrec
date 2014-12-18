@@ -16,9 +16,9 @@ tools:
 
 # Links to include in top navigation
 # For external links add external: true
-# links:
-#   - title: La quête
-#     url: /
+links:
+  - title: Carte
+    url: /carte
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
