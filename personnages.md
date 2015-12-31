@@ -4,6 +4,9 @@ permalink: /personnages/index.html
 title: Personnages
 ---
 
+<img class="portrait" src="/images/Eleu.png">Eleu
+<img src="/images/Eleu.jpg">
+
 <img class="portrait" src="/images/Agalime.png">Agalime - Foudre
 <img src="/images/Agalime.jpg">
 
@@ -27,3 +30,13 @@ title: Personnages
 
 <img class="portrait" src="/images/Sebas.png">Sebas - Vent
 <img src="/images/Sebas.jpg">
+
+<img class="portrait" src="/images/Nekolas.png">Nekolas
+<img src="/images/Nekolas.jpg">
+
+<img class="portrait" src="/images/Wajanatrabu.png">Wajanatrabu
+<img src="/images/Wajanatrabu.jpg">
+
+<img class="portrait" src="/images/Pioutou.png">Pioutou
+<img src="/images/Pioutou.jpg">
+
