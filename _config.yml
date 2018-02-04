@@ -1,13 +1,13 @@
-title:            Tygrec
-tagline:          La Quête.
+title:            La Quête
+tagline:          La Quête
 description:      Quêtes et dragons. Bienvenue dans le monde de Coline.
-canonical: 	  http://tygrec.thuault.com
+canonical:        https://la-quete.thuault.com
 
 # Owner/author information
 owner:
   name:           Thuault Clément
   email:          thuaultc@gmail.com
-  github:         Tapus
+  github:         thuaultc
   location:       "Paris, FR"
 
 tools:
@@ -33,20 +33,20 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+  syntax_highlighter_opts:
+    line_numbers:
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
 
 sass:
     style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:categories/:title.html
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
