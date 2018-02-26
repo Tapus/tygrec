@@ -1,0 +1,21 @@
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: la-quete
+  namespace: la-quete
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: la-quete
+    spec:
+      imagePullSecrets:
+      - name: registry-credentials
+      containers:
+      - image: registry.thuault.com/clement/la-quete:latest
+        imagePullPolicy: Always
+        name: la-quete
+        ports:
+        - containerPort: 8080
