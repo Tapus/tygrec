@@ -8,14 +8,14 @@ See it [here](https://la-quete.thuault.com).
 Scripts
 -------
 
-### Build image
+Build image:
 
 `./build/build.sh`
 
-### Deploy kubernetes
+Deploy on Kubernetes:
 
 `./build/deploy.sh`
 
-### Update image on kubernetes
+Update deployment image on Kubernetes:
 
 `./build/update.sh`
