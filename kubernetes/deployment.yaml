@@ -18,4 +18,4 @@ spec:
         imagePullPolicy: Always
         name: la-quete
         ports:
-        - containerPort: 8080
+        - containerPort: 80
