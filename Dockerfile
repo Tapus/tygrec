@@ -1,6 +1,6 @@
 FROM jekyll/jekyll:3.7.0
 WORKDIR /srv/jekyll
-COPY sources/ .
+COPY jekyll/ .
 RUN /usr/jekyll/bin/bundle install
 RUN mkdir /dst && chown -R jekyll: /dst
 RUN /usr/jekyll/bin/jekyll build -d /dst
