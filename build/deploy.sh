@@ -2,4 +2,4 @@
 
 set -e
 
-kubectl apply -f kubernetes
+kubectl apply -f build/kubernetes
