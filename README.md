@@ -10,17 +10,23 @@ See it [here](https://la-quete.thuault.com).
 
 ### Build image
 
-`./build/build.sh`
+```bash
+./build/build.sh
+```
 
 ### Deploy on Kubernetes
 
-`./build/deploy.sh`
+```bash
+./build/deploy.sh
+```
 
 ### Update deployment image on Kubernetes
 
-`./build/update.sh`
+```bash
+./build/update.sh
+```
 
 ## Authors
 
-* **Clément Thuault** - **Website** - [thuaultc](https://github.com/thuaultc)
-* **Coline Tournus** - **Story Author** - tygrec
+* **Coline Tournus** - *Author* - tygrec
+* **Clément Thuault** - *Website maintainer* - [thuaultc](https://github.com/thuaultc)
