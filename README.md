@@ -30,3 +30,4 @@ See it [here](https://la-quete.thuault.com).
 
 * **Coline Tournus** - *Author* - tygrec
 * **Clément Thuault** - *Website maintainer* - [thuaultc](https://github.com/thuaultc)
+* **Louis Aumaitre** - *Illustrator, co-author* - IronPenguin
