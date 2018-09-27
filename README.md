@@ -29,5 +29,6 @@ See it [here](https://la-quete.thuault.com).
 ## Authors
 
 * **Coline Tournus** - *Author* - tygrec
+* **Louis Aumaitre** - *Illustrator, co-author* - IronPenguin
 * **Clément Thuault** - *Website maintainer* - [thuaultc](https://github.com/thuaultc)
 * **Louis Aumaitre** - *Illustrator, co-author* - IronPenguin
